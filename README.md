@@ -1,3 +1,10 @@
 # Justin-wijaya
 
-Hello, my name is Justin, my full name is Justin Frederline Wijaya, I am 20 years old and I am a Binus University student and I am a game programmer.
+
+About me:
+student at binus universty
+passionate: game programer(unity,c# and phyton)
+
+Game projects:
+1.
+
