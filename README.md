@@ -2,9 +2,9 @@
 
 
 About me:
-student at binus universty
-passionate: game programer(unity,c# and phyton)
+-student at binus universty
+p-assionate: game programer(unity,c# and phyton)
 
 Game projects:
-1.
+-1.
 
